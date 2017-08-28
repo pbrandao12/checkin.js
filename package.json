@@ -1,0 +1,29 @@
+{
+  "name": "checkinjs",
+  "version": "0.0.1",
+  "description": "Creating a check in more fast, to better the system of events, conference and party.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha ./test/tests.js",
+    "dev": "",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/renanbastos93/checkin.js.git"
+  },
+  "keywords": [
+    "check in",
+    "checkin",
+    "checkinjs",
+    "events",
+    "party",
+    "conference"
+  ],
+  "author": "Renan Bastos - renanbastos.tec@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/renanbastos93/checkin.js/issues"
+  },
+  "homepage": "https://github.com/renanbastos93/checkin.js#readme"
+}
